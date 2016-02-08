@@ -1,4 +1,4 @@
-# Welcome to ASP.NET 5
+# Welcome to the Build Sample Project for ASP.NET 5
 
 We've made some big updates in this release, so it’s **important** that you spend a few minutes to learn what’s new.
 
